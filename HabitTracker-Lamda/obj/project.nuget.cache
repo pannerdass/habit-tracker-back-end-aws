@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eh9nk1PO/AZnyzULzVUAgvPnWQrUh+fDrR90EdoiuznwDf5hyfUZX5a++eotG/BVTuc3UXl/TbRw2q+01FUhHA==",
+  "success": true,
+  "projectFilePath": "D:\\Playground\\NetCore\\HabitTracker-Lamda\\HabitTracker-Lamda\\HabitTracker-Lamda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.6.0\\amazon.lambda.apigatewayevents.2.6.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\awssdk.core\\3.7.105.4\\awssdk.core.3.7.105.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.101.46\\awssdk.dynamodbv2.3.7.101.46.nupkg.sha512"
+  ],
+  "logs": []
+}

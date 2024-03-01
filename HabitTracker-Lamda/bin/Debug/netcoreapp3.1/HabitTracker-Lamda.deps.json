@@ -1,0 +1,110 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HabitTracker-Lamda/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.7.101.46",
+          "Amazon.Lambda.APIGatewayEvents": "2.6.0",
+          "Amazon.Lambda.Core": "2.1.0",
+          "Amazon.Lambda.Serialization.SystemTextJson": "2.3.0"
+        },
+        "runtime": {
+          "HabitTracker-Lamda.dll": {}
+        }
+      },
+      "Amazon.Lambda.APIGatewayEvents/2.6.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/Amazon.Lambda.APIGatewayEvents.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.Core/2.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Amazon.Lambda.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.Serialization.SystemTextJson/2.3.0": {
+        "dependencies": {
+          "Amazon.Lambda.Core": "2.1.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Amazon.Lambda.Serialization.SystemTextJson.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.105.4": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.105.4"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.101.46": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.105.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.101.46"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HabitTracker-Lamda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Lambda.APIGatewayEvents/2.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IpBKoaQD7cFb38XfoJlyv/+gnYzn+r8Y54sqyubbsPNEMujfedUNnrVgFKW5STVKzbPBw2orQsWqzdp3TvxWQA==",
+      "path": "amazon.lambda.apigatewayevents/2.6.0",
+      "hashPath": "amazon.lambda.apigatewayevents.2.6.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.Core/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ok06UhfBZw6j6+PhiJR9C0EOMuJvnq8rMCHVkaFmPFrlI/q447ukwGZQKaAKqodV+MNTfpb/iPxjgUPVbSlVVw==",
+      "path": "amazon.lambda.core/2.1.0",
+      "hashPath": "amazon.lambda.core.2.1.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.Serialization.SystemTextJson/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qgFCDJp5lyUNqCq1z18U7fZ/+rmMyw6RJf9nKfnJrf79YupDj02klQAjxymEYN66NykWXyc68SGkow6fy53hfg==",
+      "path": "amazon.lambda.serialization.systemtextjson/2.3.0",
+      "hashPath": "amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.105.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gcEGVFcL1/fB+EkoUXWjj1+p/SpgZQgMqpsry9BOdUe3VjfFlnQHaY6T07jtqjL3QDBipUDDTRL34YeJFlcvhA==",
+      "path": "awssdk.core/3.7.105.4",
+      "hashPath": "awssdk.core.3.7.105.4.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.101.46": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ClDXhRJTYW8OLwPHcBv8zyuSDdR0u5JwsR2e4A8kefXl4a/PLlJ6VxmR/cKnt3I21FsLUCs5BpXjPPBMUK3fJQ==",
+      "path": "awssdk.dynamodbv2/3.7.101.46",
+      "hashPath": "awssdk.dynamodbv2.3.7.101.46.nupkg.sha512"
+    }
+  }
+}

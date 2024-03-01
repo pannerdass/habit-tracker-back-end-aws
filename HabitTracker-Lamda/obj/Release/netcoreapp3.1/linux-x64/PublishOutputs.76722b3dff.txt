@@ -1,0 +1,9 @@
+D:\Playground\NetCore\HabitTracker-Lamda\HabitTracker-Lamda\bin\Release\netcoreapp3.1\publish\HabitTracker-Lamda.dll
+D:\Playground\NetCore\HabitTracker-Lamda\HabitTracker-Lamda\bin\Release\netcoreapp3.1\publish\HabitTracker-Lamda.deps.json
+D:\Playground\NetCore\HabitTracker-Lamda\HabitTracker-Lamda\bin\Release\netcoreapp3.1\publish\HabitTracker-Lamda.runtimeconfig.json
+D:\Playground\NetCore\HabitTracker-Lamda\HabitTracker-Lamda\bin\Release\netcoreapp3.1\publish\HabitTracker-Lamda.pdb
+D:\Playground\NetCore\HabitTracker-Lamda\HabitTracker-Lamda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
+D:\Playground\NetCore\HabitTracker-Lamda\HabitTracker-Lamda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+D:\Playground\NetCore\HabitTracker-Lamda\HabitTracker-Lamda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Playground\NetCore\HabitTracker-Lamda\HabitTracker-Lamda\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+D:\Playground\NetCore\HabitTracker-Lamda\HabitTracker-Lamda\bin\Release\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
